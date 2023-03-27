@@ -5,3 +5,6 @@
 
 # Usage
 `rs2-hsl 43580`
+
+# Preview
+![](preview.png)
