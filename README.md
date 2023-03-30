@@ -10,3 +10,7 @@ RuneScape 2 uses a lookup table when rasterizing their triangles. This cli lets 
 
 # Preview
 ![](preview.png)
+
+# Palette
+
+![image](https://user-images.githubusercontent.com/3468354/228697920-76201ad4-d5de-4ff7-9d66-97a13d17a972.png)
